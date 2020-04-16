@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoStack" 		src="https://codenation.dev/_nuxt/img/e59d026.svg" width="400px" height="150" style="background: #000" />
+    <img src="https://codenation.dev/_nuxt/img/e59d026.svg" width="400px" height="150" style="background: #000" />
 </h1>
 
 <h3 align="center">

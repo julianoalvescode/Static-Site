@@ -1,7 +1,21 @@
-# Site estático: 🎥 IMDB
+<h1 align="center">
+    <img alt="GoStack" 		src="https://codenation.dev/_nuxt/img/e59d026.svg" width="400px" height="150" style="background: #000" />
+</h1>
 
-  
-## Objetivo: 
+<h3 align="center">
+  Desafio: IMDB - Movies Site
+</h3>
+
+
+<p align="center">
+  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+## :rocket: Sobre o desafio
+
+
 O desafio é desenvolver a página inicial de um site de avaliação de filmes (IMDB - Internet Movies Database) utilizando apenas **HTML5** e **CSS3**.
 
 > **Preview:**
@@ -43,6 +57,16 @@ Neste desafio, você vai praticar os seus conhecimentos em:
 * 📜 [Guia HTML5](https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf);
 * 📜 [Guia CSS3](https://www.w3c.br/pub/Materiais/PublicacoesW3C/guia-css-w3cbr.pdf).
 
-## Layout:
 
-![](https://codenation-challenges.s3-us-west-1.amazonaws.com/react-11/image.png)
+
+## 📅 Entrega
+
+Sem prazo estipulado.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+Feito com ♥ by Juliano Alves :wave: 
